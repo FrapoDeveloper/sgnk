@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sgnk/static/css/main.bca2165c.chunk.css",
-    "main.js": "/sgnk/static/js/main.5a174c5c.chunk.js",
-    "main.js.map": "/sgnk/static/js/main.5a174c5c.chunk.js.map",
-    "runtime-main.js": "/sgnk/static/js/runtime-main.e8c89c3c.js",
-    "runtime-main.js.map": "/sgnk/static/js/runtime-main.e8c89c3c.js.map",
-    "static/js/2.90af2135.chunk.js": "/sgnk/static/js/2.90af2135.chunk.js",
-    "static/js/2.90af2135.chunk.js.map": "/sgnk/static/js/2.90af2135.chunk.js.map",
-    "index.html": "/sgnk/index.html",
-    "precache-manifest.01c76b72fb424a36472fc4099d3f42b9.js": "/sgnk/precache-manifest.01c76b72fb424a36472fc4099d3f42b9.js",
-    "service-worker.js": "/sgnk/service-worker.js",
-    "static/css/main.bca2165c.chunk.css.map": "/sgnk/static/css/main.bca2165c.chunk.css.map",
-    "static/js/2.90af2135.chunk.js.LICENSE.txt": "/sgnk/static/js/2.90af2135.chunk.js.LICENSE.txt",
-    "static/media/github.png": "/sgnk/static/media/github.b37b05a7.png",
-    "static/media/instagram.png": "/sgnk/static/media/instagram.4a8c2347.png"
+    "main.css": "/sgnkapp/static/css/main.bca2165c.chunk.css",
+    "main.js": "/sgnkapp/static/js/main.5a174c5c.chunk.js",
+    "main.js.map": "/sgnkapp/static/js/main.5a174c5c.chunk.js.map",
+    "runtime-main.js": "/sgnkapp/static/js/runtime-main.bd4b32d6.js",
+    "runtime-main.js.map": "/sgnkapp/static/js/runtime-main.bd4b32d6.js.map",
+    "static/js/2.90af2135.chunk.js": "/sgnkapp/static/js/2.90af2135.chunk.js",
+    "static/js/2.90af2135.chunk.js.map": "/sgnkapp/static/js/2.90af2135.chunk.js.map",
+    "index.html": "/sgnkapp/index.html",
+    "precache-manifest.9519f3eb703fb8b2a54d131390126ae8.js": "/sgnkapp/precache-manifest.9519f3eb703fb8b2a54d131390126ae8.js",
+    "service-worker.js": "/sgnkapp/service-worker.js",
+    "static/css/main.bca2165c.chunk.css.map": "/sgnkapp/static/css/main.bca2165c.chunk.css.map",
+    "static/js/2.90af2135.chunk.js.LICENSE.txt": "/sgnkapp/static/js/2.90af2135.chunk.js.LICENSE.txt",
+    "static/media/github.png": "/sgnkapp/static/media/github.b37b05a7.png",
+    "static/media/instagram.png": "/sgnkapp/static/media/instagram.4a8c2347.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8c89c3c.js",
+    "static/js/runtime-main.bd4b32d6.js",
     "static/js/2.90af2135.chunk.js",
     "static/css/main.bca2165c.chunk.css",
     "static/js/main.5a174c5c.chunk.js"
